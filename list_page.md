@@ -78,4 +78,4 @@ Black usually ends up with a very strong center while white’s pieces struggle 
 ***
 
 
-[Więcej]: www.chess.com
+[Więcej]: Adelaide-Counter-Gambit.md
